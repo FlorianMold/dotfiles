@@ -1,0 +1,3 @@
+cp ~/.zshrc ~/projects/private/dotfiles/.zshrc
+cp ~/.p10k.zsh ~/projects/private/dotfiles/.p10k.zsh
+cp ~/.oh-my-zsh/custom/aliases.zsh ~/projects/private/dotfiles/aliases.zsh

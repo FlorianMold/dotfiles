@@ -1,0 +1,7 @@
+[wsl2]
+localhostForwarding=true
+memory=10GB   # Limits VM memory up to 12GB
+swap=0
+
+
+
