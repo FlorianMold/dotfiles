@@ -80,7 +80,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 plugins=(
   git
   zsh-autosuggestions
-  copydir
+  copypath
   copyfile
   history
   zsh-syntax-highlighting
@@ -89,6 +89,12 @@ plugins=(
   web-search
   nvm
   gradle-completion
+  yarn
+  gradle
+  docker-compose
+  docker
+  ng
+  nx-completion
 )
 
 source $ZSH/oh-my-zsh.sh
